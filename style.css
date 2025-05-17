@@ -1,0 +1,17 @@
+.parent{
+    background-color: antiquewhite;
+    display: flex;
+    padding: 5px;
+    gap: 30px;
+     justify-content: space-between; /*row borabor jodi kono perfect space chai then */
+    height: 350px;
+    align-items: center; /*item gulake ami kivabe show korte chassi*/
+    flex-direction: row; /*item gula row or colum borabor rakbo ei control dei amder*/
+    flex-wrap: wrap; /*onnekgula jodi elements thake jeigula attese na seigula wrap korar jonne eita use hoi.*/
+}
+.child{
+    background-color: aqua;
+    border: 5px solid aquamarine;
+    padding: 20px;
+    font-size: 28px;
+}
