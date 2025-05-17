@@ -5,7 +5,7 @@
     gap: 30px;
      justify-content: space-between; /*row borabor jodi kono perfect space chai then */
     height: 350px;
-    align-items: center; /*item gulake ami kivabe show korte chassi*/
+    align-items: center; /*coloum borabor kisso korte isse korle tokon*/
     flex-direction: row; /*item gula row or colum borabor rakbo ei control dei amder*/
     flex-wrap: wrap; /*onnekgula jodi elements thake jeigula attese na seigula wrap korar jonne eita use hoi.*/
 }
